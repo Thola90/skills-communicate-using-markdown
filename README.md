@@ -1,24 +1,22 @@
 <header>
-
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
-
-# Communicate using Markdown
-
-_Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
-
+<header>
+<body>
+  <hl>Home page </hl>
+  <h2>This is heading</h2>
+  <h3>This is heading</h3>
+  <h4>This is heading</h4>
+  <h5>This is heading</h5>
+  <h6>This is heading</h6>
+   ../blob/main/assets/images/electrocal.png
+  
+< hellow everyone>
+< my name is Tholakele>
+< im trying my best on coding>
+</html>
 </header>
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
+
+
 -->
 
 ## Step 1: Add headers
